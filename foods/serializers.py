@@ -17,7 +17,7 @@ class FoodSerializer(serializers.ModelSerializer):
             "name_ru",
             "description_ru",
             "description_en",
-            # 'is_publish',
+            "is_publish",
             "description_ch",
             "is_vegan",
             "is_special",
